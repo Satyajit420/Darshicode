@@ -14,6 +14,7 @@ char a []=s.toCharArray();
  System.out.println(l.get(0));
  
  HashSet s= new HashSet(l);
+ System.out.println("hello");
 
 	
 
